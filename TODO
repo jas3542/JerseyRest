@@ -1,0 +1,3 @@
+1) Change Resource methods. Instead of PeopleDB use PoepleRepository. PeopleRepository will call the PeopleDB.
+2) Return HttpResponse with HttpStatus Methods.
+      example with spring Framework ( https://stackabuse.com/how-to-return-http-status-codes-in-a-spring-boot-application/ )
